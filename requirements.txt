@@ -2,3 +2,5 @@ Flask
 scikit-learn
 gunicorn
 pandas
+sqlalchemy
+psycopg2-binary
